@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AAsyncAPIs", "AAsyncAPIs\AAsyncAPIs.csproj", "{0962D483-0080-429F-9D44-EDB64D69CEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAsyncWebClient", "BAsyncWebClient\BAsyncWebClient.csproj", "{7B62E768-8995-44CB-9611-A94D1E7F34C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAsyncPerilChaining", "CAsyncPerilChaining\CAsyncPerilChaining.csproj", "{57E7EAE0-B4DF-441A-BDB1-CC7948633458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHowAsyncAwaitHelps", "DHowAsyncAwaitHelps\DHowAsyncAwaitHelps.csproj", "{94B83618-F3B4-427B-A506-5C98BD7DAF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EParallelisWithAsyncAwait", "EParallelisWithAsyncAwait\EParallelisWithAsyncAwait.csproj", "{7920E58D-4D7D-4B00-9377-3B07BCC02E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTaskCompletionSourceDemo", "FTaskCompletionSourceDemo\FTaskCompletionSourceDemo.csproj", "{DF25D978-BADA-4097-B5AF-F7C8E99C5372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0962D483-0080-429F-9D44-EDB64D69CEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0962D483-0080-429F-9D44-EDB64D69CEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0962D483-0080-429F-9D44-EDB64D69CEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0962D483-0080-429F-9D44-EDB64D69CEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B62E768-8995-44CB-9611-A94D1E7F34C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B62E768-8995-44CB-9611-A94D1E7F34C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B62E768-8995-44CB-9611-A94D1E7F34C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B62E768-8995-44CB-9611-A94D1E7F34C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E7EAE0-B4DF-441A-BDB1-CC7948633458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E7EAE0-B4DF-441A-BDB1-CC7948633458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E7EAE0-B4DF-441A-BDB1-CC7948633458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E7EAE0-B4DF-441A-BDB1-CC7948633458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B83618-F3B4-427B-A506-5C98BD7DAF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B83618-F3B4-427B-A506-5C98BD7DAF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B83618-F3B4-427B-A506-5C98BD7DAF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B83618-F3B4-427B-A506-5C98BD7DAF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7920E58D-4D7D-4B00-9377-3B07BCC02E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7920E58D-4D7D-4B00-9377-3B07BCC02E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7920E58D-4D7D-4B00-9377-3B07BCC02E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7920E58D-4D7D-4B00-9377-3B07BCC02E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF25D978-BADA-4097-B5AF-F7C8E99C5372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF25D978-BADA-4097-B5AF-F7C8E99C5372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF25D978-BADA-4097-B5AF-F7C8E99C5372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF25D978-BADA-4097-B5AF-F7C8E99C5372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C15F4E2-6839-4467-AD22-0C08DB3C9FD0}
+	EndGlobalSection
+EndGlobal
